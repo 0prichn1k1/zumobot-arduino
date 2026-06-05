@@ -12,8 +12,9 @@
 #define pinMotorDerIn2
 
 //PINES DE SENSORES DE DISTANCIA SHARP (1 izq)(2 der) (analogicos)
-#define pinDist1
-#define pinDist2
+#define pinDistSh1
+#define pinDistSh2
+//PINES DE SENSORES DIGITAL IR 
 //PINES DE SENSORES DE LINEQA
 #define pinLinFreIzq
 #define pinLinFreDer
