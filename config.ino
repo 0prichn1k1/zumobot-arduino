@@ -14,7 +14,9 @@
 //PINES DE SENSORES DE DISTANCIA SHARP (1 izq)(2 der) (analogicos)
 #define pinDistSh1
 #define pinDistSh2
-//PINES DE SENSORES DIGITAL IR 
+//PINES DE SENSORES IR (1 izq)(2 der) (digital)
+#define pinDig1
+#define pinDig2
 //PINES DE SENSORES DE LINEQA
 #define pinLinFreIzq
 #define pinLinFreDer
