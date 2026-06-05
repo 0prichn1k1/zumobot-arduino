@@ -11,13 +11,12 @@
 #define pinMotorDerIn1
 #define pinMotorDerIn2
 
-//PINES DE SENSORES DE DISTANCIA
-#define pinSDistIzq
-#define pinSDistCen
-#define pinSDistDer
+//PINES DE SENSORES DE DISTANCIA SHARP (1 izq)(2 der) (analogicos)
+#define pinDist1
+#define pinDist2
 //PINES DE SENSORES DE LINEQA
-#define pinLinFrenteIzq
-#define pinLinFrenteDer
+#define pinLinFreIzq
+#define pinLinFreDer
 //FALTA DEFINIR PINESSSSSSS
 //DEFINIR CONFIGURACION
 #define umbralLin 500
